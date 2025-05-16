@@ -1,0 +1,15 @@
+<shortcuts xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="fav"
+        android:enabled="true"
+        android:icon="@mipmap/ic_short"
+        android:shortcutShortLabel="@string/shortcutShortLabel"
+        android:shortcutLongLabel="@string/shortcutShortLabel"
+        tools:ignore="UnusedAttribute">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.androidClass.musicPlayer"
+            android:targetClass="com.androidClass.musicPlayer.ui.activities.MainActivity" />
+    </shortcut>
+</shortcuts>

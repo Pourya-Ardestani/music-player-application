@@ -1,3 +1,6 @@
-# music-player-application
+پروژه درس برنامه نویسی دستگاه های سیار
 
-for the android programming class in Autumn 1402
+گروه ۱۴
+سهیل سلیمی - زهرا حاجی زاده - پوریا اردستانی سامانی
+
+فایل خروجی app-release.apk است
